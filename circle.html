@@ -1,0 +1,73 @@
+<div data-progress-circle="" class="progress-circle">
+    <div class="progress-circle__percentage" data-progress-circle-text="">70%</div>
+    <div class="progress-circle__circle">
+        <svg class="progress-circle__circle__background-svg" width="100%" height="100%">
+            <circle r="16" cx="50%" cy="50%"></circle>
+        </svg>
+        <svg class="progress-circle__circle__progress-svg" width="100%" height="100%">
+            <circle data-progress-circle-circle="" r="16" cx="50%" cy="50%" style="stroke-dasharray: 30, 100; color:red " stroke-dasharray:="" 0="" 100="" }=""></circle>
+        </svg>
+    </div>
+</div>
+
+
+<style>
+
+.progress-circle {
+    position: relative;
+    display: inline-block;
+    width: 55px;
+    height: 55px;
+}
+
+.progress-circle__percentage {
+    font-size: 14px;
+    font-family: Larsseit-Bold;
+    color: #999;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%)
+}
+
+.progress-circle__circle {
+    width: 100%;
+    height: 100%;
+    -webkit-transform: rotate3d(0,0,90,-90deg);
+    transform: rotate3d(0,0,90,-90deg);
+    -webkit-transform-origin: center;
+    -ms-transform-origin: center;
+    transform-origin: center
+}
+
+.progress-circle__circle__background-svg,.progress-circle__circle__progress-svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    -webkit-transform: scale(1.52778);
+    -ms-transform: scale(1.52778);
+    transform: scale(1.52778)
+}
+
+.progress-circle__circle__background-svg circle,.progress-circle__circle__progress-svg circle {
+    fill: transparent;
+    stroke-width: 4px;
+    stroke-linecap: round
+}
+
+.progress-circle__circle__progress-svg circle {
+    stroke: currentColor;
+    stroke-dasharray: 0 100
+}
+
+.progress-circle__circle__background-svg circle {
+    stroke: #e6e6e6;
+    stroke-dasharray: 100 100
+}
+
+.progress-circle--inline {
+    display: inline-block
+}
+</style>
