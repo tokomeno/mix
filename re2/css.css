@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.box{
+  width: 489px;
+  height: 600px;
+  background-image: url("./img/animator-2.png");
+  background-position: 0 center;
+  animation: anim 1s steps(32, start) 0s 1 forwards;
+}
+
+
+@keyframes anim{
+  0%{
+    background-position: 0 center;
+  }
+  100%{
+    background-position: -15648px center;
+  }
+}

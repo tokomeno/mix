@@ -1,0 +1,31 @@
+<svg _ngcontent-c0="" viewBox="0 0 26.834 26.834" xmlns="http://www.w3.org/2000/svg">
+          <defs _ngcontent-c0="">
+            <style _ngcontent-c0="">
+              .cls-1 {
+                fill: #1a4c71;
+              }
+            </style>
+          </defs>
+          <g _ngcontent-c0="" id="startup" transform="translate(13.417 0) rotate(45)">
+            <g _ngcontent-c0="" data-name="Group 30" id="Group_30">
+              <g _ngcontent-c0="" data-name="Group 29" id="Group_29">
+                <path _ngcontent-c0="" class="cls-1" d="M18.975,8.9a6.048,6.048,0,0,0-7.042-3.717A17.254,17.254,0,0,0,.489,0,.462.462,0,0,0,0,.489,17.61,17.61,0,0,0,5.086,11.932,6.205,6.205,0,0,0,8.8,18.975a6.813,6.813,0,0,1-.2-4.206,10.69,10.69,0,0,0,1.467.782.461.461,0,0,0,.587-.1l4.89-4.89a.437.437,0,0,0,0-.489A6.236,6.236,0,0,0,14.769,8.7,6.813,6.813,0,0,1,18.975,8.9ZM8.216,8.216A1.936,1.936,0,0,1,5.477,5.477,1.936,1.936,0,0,1,8.216,8.216Z" data-name="Path 83" id="Path_83"></path>
+              </g>
+            </g>
+            <g _ngcontent-c0="" data-name="Group 32" id="Group_32" transform="translate(15.551 11.737)">
+              <g _ngcontent-c0="" data-name="Group 31" id="Group_31">
+                <path _ngcontent-c0="" class="cls-1" d="M410.757,309.547l-2.054-2.054a.968.968,0,1,0-1.369,1.369l2.054,2.054a.968.968,0,0,0,1.369-1.369Z" data-name="Path 84" id="Path_84" transform="translate(-407.04 -307.2)"></path>
+              </g>
+            </g>
+            <g _ngcontent-c0="" data-name="Group 34" id="Group_34" transform="translate(11.737 15.551)">
+              <g _ngcontent-c0="" data-name="Group 33" id="Group_33">
+                <path _ngcontent-c0="" class="cls-1" d="M310.917,409.387l-2.054-2.054a.968.968,0,1,0-1.369,1.369l2.054,2.054a.968.968,0,0,0,1.369-1.369Z" data-name="Path 85" id="Path_85" transform="translate(-307.2 -407.04)"></path>
+              </g>
+            </g>
+            <g _ngcontent-c0="" data-name="Group 36" id="Group_36" transform="translate(13.595 13.693)">
+              <g _ngcontent-c0="" data-name="Group 35" id="Group_35">
+                <path _ngcontent-c0="" class="cls-1" d="M360.339,361.53l-2.836-2.836a.968.968,0,0,0-1.369,1.369l2.836,2.836a.968.968,0,0,0,1.369-1.369Z" data-name="Path 86" id="Path_86" transform="translate(-355.84 -358.4)"></path>
+              </g>
+            </g>
+          </g>
+        </svg>
